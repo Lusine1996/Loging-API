@@ -1,0 +1,7 @@
+logging_api.title_config_form:
+  path: '/admin/config/title-configuration'
+  defaults:
+    _form: '\Drupal\logging_api\Form\TitleConfigurationForm'
+    _title: 'Title Configuration'
+  requirements:
+    _permission: 'administer site configuration'

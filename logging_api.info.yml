@@ -1,0 +1,5 @@
+name: 'Logging API'
+type: module
+description: 'A simple module that demonstrates creating a logger message'
+package: Custom
+core_version_requirement: ^10

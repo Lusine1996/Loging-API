@@ -1,0 +1,4 @@
+services:
+  logging_api.logger.channel.logging_api:
+    parent: logger.channel_base
+    arguments: ['logging_api']
